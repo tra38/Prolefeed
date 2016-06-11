@@ -45,6 +45,7 @@ prolefeed.add_to_story(%{
   ##Usage
 
   ```ruby
+  require 'prolefeed'
 
   prolefeed = Prolefeed.new
 
