@@ -5,7 +5,7 @@ Prolefeed is a Ruby Gem that provides a simple API for generating stories by usi
 
 ##Code Examples
 
-Examples of code are located in the example folder. They include a toy example, the Ruby file used to generate this documentation, and an example 'hot take'. You may also look at the 'History of Real-World Usage' section to see examples of this code being used in production.
+Examples of code are located in the examples folder. They include a toy example, the Ruby file used to generate this documentation, and an example 'hot take'. You may also look at the 'History of Real-World Usage' section to see examples of this code being used in production.
 
 
 ##History of Real-World Usage
