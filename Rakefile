@@ -22,13 +22,14 @@ spec = Gem::Specification.new do |s|
   s.author            = "Tariq Ali"
   s.email             = "tra38@nau.edu"
   s.homepage          = "http://github.com/tra38/prolefeed"
+  s.license           = ['Unlicense']
 
   s.has_rdoc          = true
   s.extra_rdoc_files  = %w(README.md)
   s.rdoc_options      = %w(--main README.md)
 
   # Add any extra files to include in the gem
-  s.files             = %w(README.md) + Dir.glob("{lib}/**/*")
+  s.files             = %w(README.md LICENSE.md) + Dir.glob("{lib}/**/*")
   s.require_paths     = ["lib"]
 
   # If you want to depend on other gems, add them here, along with any
