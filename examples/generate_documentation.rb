@@ -38,7 +38,7 @@ prolefeed.add_to_story(%{
   ### Gemfile
 
   ```ruby
-  gem 'calyx'
+  gem 'prolefeed'
   ```
   })
 prolefeed.add_to_story(%{

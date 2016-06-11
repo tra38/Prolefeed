@@ -30,7 +30,7 @@ gem install prolefeed
 ### Gemfile
 
 ```ruby
-gem 'calyx'
+gem 'prolefeed'
 ```
 
 
@@ -59,8 +59,7 @@ prolefeed.add_to_story("Paragraph #1")
 prolefeed.add_to_story("Paragraph #2")
 prolefeed.add_to_story("Paragraph #3")
 
-final_story = prolefeed.generate.join("
-")
+final_story = prolefeed.generate.join("\r\n")
 
 puts final_story
 
