@@ -22,7 +22,7 @@ spec = Gem::Specification.new do |s|
   s.author            = "Tariq Ali"
   s.email             = "tra38@nau.edu"
   s.homepage          = "http://github.com/tra38/prolefeed"
-  s.license           = ['Unlicense']
+  s.license           = 'Unlicense'
 
   s.has_rdoc          = true
   s.extra_rdoc_files  = %w(README.md)
