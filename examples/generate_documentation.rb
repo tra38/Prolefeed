@@ -83,7 +83,7 @@ prolefeed.add_to_story(%{
 
   Though the algorithm is simple, it is applicable to many situations:
 
-  - Easily create 'evocative' fiction literature that avoids plot in favor of description and theme
+  - Easily create 'evocative' fiction that avoids plot in favor of description and theme
 
   - Repackage your existing content into a coherent and organized blog post (surrounded by bookends).
 
