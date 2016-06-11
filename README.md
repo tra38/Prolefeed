@@ -39,7 +39,7 @@ Inspiration: This algorithm was inspired by [Fake Press Coverage of NaNoGenMo: A
 
 Name: George Orwell invented the world 'Prolefeed' to describe the computer-generated work produced in Oceania. [According to Wikipedia](https://en.wikipedia.org/wiki/Prolefeed), prolefeed is:
 
->>the deliberately superficial literature, movies and music that were produced by Prolesec, a section of the Ministry of Truth, to keep the "proles" (i.e., proletariat) content and to prevent them from becoming too knowledgeable
+>the deliberately superficial literature, movies and music that were produced by Prolesec, a section of the Ministry of Truth, to keep the "proles" (i.e., proletariat) content and to prevent them from becoming too knowledgeable
 
 This algorithm is best suited for generating this type of literature in Oceania. The algorithm's stories are simply the random arrangement of human-written passages, yet it 'seems' meaningful and evocative to a human being because of [apophenia](https://en.wikipedia.org/wiki/Apophenia)...the human tendency for seeing patterns where none exist.
 
