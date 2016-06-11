@@ -1,4 +1,4 @@
-require_relative '../lib/prolefeed'
+require 'prolefeed'
 
 prolefeed = Prolefeed.new
 

@@ -49,6 +49,7 @@ Algorithm Writing: [Tariq Ali](https://github.com/tra38) wrote the algorithm, an
 ##Usage
 
 ```ruby
+require 'prolefeed'
 
 prolefeed = Prolefeed.new
 

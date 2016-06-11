@@ -1,5 +1,5 @@
 ```ruby
-require_relative '../lib/prolefeed'
+require 'prolefeed'
 
 #robertogreen's comment on Jezebel's "How to Tell the Difference Between a Hot Take and a Good Idea",
 #converted into a longform journalistic article.
